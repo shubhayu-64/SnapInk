@@ -1,0 +1,6 @@
+app:
+  refresh_rate: 5            # Time in seconds between image updates on the e-ink display
+  playback_mode: sequential  # Options: 'sequential' or 'random'
+  db_name: photos.db         # Name of the SQLite database
+  image_folder: images       # Folder to store downloaded images
+  log_level: DEBUG           # Logging level: DEBUG, INFO, WARNING, ERROR

@@ -1,0 +1,7 @@
+creds.json
+photos.db
+
+# folders
+token_files/
+images/
+__pycache__/

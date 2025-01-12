@@ -1,0 +1,13 @@
+Flask==3.1.0
+google_api_python_client==2.156.0
+google_auth_oauthlib==1.2.1
+gpiozero==2.0.1
+httpx==0.28.1
+Pillow==11.0.0
+protobuf==5.29.2
+pyngrok==7.2.2
+PyYAML==6.0.1
+PyYAML==6.0.2
+qrcode==8.0
+Requests==2.32.3
+spidev==3.6
